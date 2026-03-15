@@ -21,19 +21,27 @@ A curated list of awesome historical LEGO resources for enthusiasts
 ### LEGO Game Developers
 - [**Templar**](https://www.templar.com/)
 - [**Gamelab**](https://web.archive.org/web/19981212014140/http://gamelab.com/)
-    - [Gamelab portfolio](https://web.archive.org/web/20060305221000/http://www.gmlb.com/games.html)
+  - [Gamelab portfolio](https://web.archive.org/web/20060305221000/http://www.gmlb.com/games.html)
 - [**4T2 Multimedia website**](http://www.4t2.ca/about/index.html) (now Azumo)
-    - [Azumo Vault](https://www.amuzo.com/amuzo-vault/)
+  - [4T2's portfolio of web games](http://4t2portfolio.co.uk/)
+  - [Azumo Vault](https://www.amuzo.com/amuzo-vault/)
 - **Large Animal**
-    - [Galidor portfolio at Large Animal](https://web.archive.org/web/20021015084815/http://www.largeanimal.com/games/galidor/index.html)
+  - [Galidor portfolio at Large Animal](https://web.archive.org/web/20021015084815/http://www.largeanimal.com/games/galidor/index.html)
 - **Blockdot**
-    - [Blockdot games at Kongregrate](https://www.kongregate.com/accounts/blockdotgames)
-    - [Blockdot at YouTube](https://www.youtube.com/@blockdotgames)
+  - [Blockdot games at Kongregrate](https://www.kongregate.com/accounts/blockdotgames)
+  - [Blockdot at YouTube](https://www.youtube.com/@blockdotgames)
 - **QB9 Entertainment**
-    - - [Video Games: More Than Just A Game - The Unknown Successes of Latin American and Caribbean Studios](https://publications.iadb.org/publications/english/document/video_games_more_than_just_a_game_en.pdf) - includes LEGO web games by QB9 entertainment
+  - [Video Games: More Than Just A Game - The Unknown Successes of Latin American and Caribbean Studios](https://publications.iadb.org/publications/english/document/video_games_more_than_just_a_game_en.pdf) - includes LEGO web games by QB9 entertainment
+- **Atticmedia**
+    - [Atticmedia's portfolio of games and micro-sites](https://web.archive.org/web/20020205221143/http://www.atticgames.net/games/index.htm)
 
 ### LEGO Web Games
 - LEGO Website Games pages: [2000-03](https://web.archive.org/web/20000301035851/http://www.lego.com/action/games.asp), [2001-12](https://web.archive.org/web/20011213222657/http://www.lego.com/games/), [2002-02](https://web.archive.org/web/20020206071222/http://www.lego.com/GAMES/), [2002-06](https://web.archive.org/web/20020602082321/lego.com/games), [2003-01](https://web.archive.org/web/20030102222151/http://www.lego.com/GAMES/), [2003-03](https://web.archive.org/web/20030321094702/http://www.lego.com/eng/play/games/), [2005-04](https://web.archive.org/web/20050404023532/http://club.lego.com/eng/games/default.asp), [2006-04](https://web.archive.org/web/20060408105736/http://club.lego.com/eng/games/default.asp?mode=1), [2007-04](https://web.archive.org/web/20070408202900/http://club.lego.com/eng/games/default.asp?mode=1), [2007-06](https://web.archive.org/web/20070609163612/http://club.lego.com/eng/games/default.asp), [2008-06](https://web.archive.org/web/20080626231927/http://play.lego.com/en-US/games/default.aspx), [2009-06](https://web.archive.org/web/20090621162145/http://play.lego.com/en-US/games/default.aspx), [2010-06](https://web.archive.org/web/20100621040515/http://play.lego.com/en-US/games/default.aspx), [2013-05](https://web.archive.org/web/20130512062441/http://www.lego.com/en-us/games/), [2014-01](https://web.archive.org/web/20140122085900/http://www.lego.com/en-us/games/), [2011-06](https://web.archive.org/web/20110601080132/http://play.lego.com/en-US/default.aspx)
+    - [2000-02 from lego.dk](https://web.archive.org/web/20000229073205/http://www.lego.dk:80/action/games.asp)
+- Preschool Web Games
+  - https://web.archive.org/web/20040611013037/http://www.lego.com/eng/explore/games.asp
+  - https://web.archive.org/web/20040616173339/http://www.lego.com/eng/preschool/games/default.asp
+  - https://web.archive.org/web/20130708162910/http://duplo.lego.com/en-us/games
 - **Ninjago Web Games**
     - [Ninjago games](https://web.archive.org/web/20130515120038/http://ninjago.lego.com/en-us/gamesandmovies/default.aspx) at Cartoon Network in 2013
     - [Ninjago games](https://web.archive.org/web/20190610010222/http://www.cartoonnetwork.com/games/ninjago/) at Cartoon Network in 2019
@@ -44,6 +52,7 @@ A curated list of awesome historical LEGO resources for enthusiasts
 - **LEGO Racers Web Games**
     - [Racers games at 2012 lego.com](https://web.archive.org/web/20120601010815/http://racers.lego.com/en-us/Default.asp)
     - [Racers Games at 2013 lego.com](https://web.archive.org/web/20130513103437/http://racers.lego.com/en-US/Games/Default.aspx)
+    - [Racers competitions](https://web.archive.org/web/20020206165918/http://legoracers.atticmedia.com/banners.html) at legoracers.atticmedia.com
 - [Flashpoint](https://flashpointproject.github.io/flashpoint-database/search/) - archive and player for Flash content
 - [LEGO games at Flash Museum](https://flashmuseum.org/?s=lego)
 - **Alpha Team**
@@ -91,6 +100,7 @@ A curated list of awesome historical LEGO resources for enthusiasts
   - [lego.es](https://web.archive.org/web/20000304061405/http://www.lego.es/) - Spanish LEGO website in 2000
   - [lego.net](http://web.archive.org/web/20080705014725/http://www.lego.net/) - Mirror of LEGO website from 2000-2008
   - [club.lego.com](https://web.archive.org/web/20030330173744/http://club.lego.com/) - LEGO Club member website from 2000-2014
+  - https://www.bartneck.de/1998/12/01/the-lego-website/
 
 - **LEGOLAND**
   - legoland.com - Legoland website
@@ -148,6 +158,12 @@ A curated list of awesome historical LEGO resources for enthusiasts
   - legomindstorms.com - Mindstorms theme website
   - [mindstorms.lego.com](https://web.archive.org/web/20010911140052/http://mindstorms.lego.com/default.asp) - Mindstorms theme website
   - [clikits.com](https://web.archive.org/web/20030322180344/http://www.clikits.com/) - Clikits theme website from 2003-2006
+  - [BIONICLE Toa Nuva toothbrushes) at colgate.com](https://web.archive.org/web/20060311182218/http://www.colgate.com/app/Colgate/USES/OralCare/ProductRecommender/KidsProducts/Webpages/BionicleToothbrush.cvsp)
+    - https://web.archive.org/web/20050317160442/http://www.colgate.com:80/app/Colgate/US/BuyNow/OralCare/KidsToothbrushes/Bionicle.cvsp
+    - https://web.archive.org/web/20040607005424/http://www.colgate.com/app/Colgate/US/OralCare/ProductRecommender/KidsProducts.cvsp
+
+- **Jack Stone**
+  - [Jack Stone toothbrushes](https://web.archive.org/web/20040604053110/http://www.colgate.com/app/Colgate/US/OralCare/ProductRecommender/KidsProducts/PDPs.cvsp?product=ColgateLegoToothbrush_461) at colgate.com
 
 - **Ambassador Network**
   - [lan.lego.com](https://lan.lego.com/) - LEGO Ambassador Network website
@@ -193,6 +209,13 @@ A curated list of awesome historical LEGO resources for enthusiasts
 - [Santiago Perez Lamas's portfolio of Ninjago Rebooted](https://www.coroflot.com/splmultimedia/Lego-Ninjago-Rebooted)
 - [Paul Lee's flickr gallery of LEGO Magazine comics](https://www.flickr.com/photos/artpoly/albums/72157626087344526)
 - [daveisblue's concept art for LEGO Universe](https://www.deviantart.com/daveisblue/gallery/50997526/lego-universe)
+- [Rogger Harris' illustrations](https://www.nbillustration.co.uk/portfolios/roger-harris/) - LEGO Chess and LEGO Island 2 cover images
+- https://cargocollective.com/rvhm/Lego-Ninjago
+- https://www.davidfortier.com/en/portfolio/lego.php
+- https://web.archive.org/web/20160128030225/http://cape.net/work
+- https://web.archive.org/web/20080105192154mp_/http://www.doh-ray.com/portfolio/bio.htm
+- [David R Sutherland's LEGO illustrations](https://www.davidrsutherland.name/category/client/lego/)
+- [Pedro Moya's LEGO gallery at DeviantArt](https://www.deviantart.com/pedromoya/gallery?q=lego)
 
 ## Media
 - [Emily's LEGO Realm fan site](https://emilyinternet.zone/realm/)
@@ -212,6 +235,7 @@ A curated list of awesome historical LEGO resources for enthusiasts
     - [BS01](https://biosector01.com/)
     - [The Great Archives](https://thegreatarchives.com/)
     - [Emily's Bionicle chronicle fan site](https://bionicle.gay/chronicle/)
+    - [Alastair Swinnerton's blog posts about BIONICLE](https://alastairswinnerton.com/category/bionicle/)
 - **Life on Mars**
     - [Biodium Archive](https://biodiumvault.wordpress.com/) - fan-made archive of Life on Mars media
 - **Adventurers**
@@ -223,6 +247,8 @@ A curated list of awesome historical LEGO resources for enthusiasts
   - [Oliver Wallington's portfolio of Slizer](https://www.coroflot.com/p/594500)
 - **Fusion**
   - https://www.coroflot.com/charliedavidson/Portfolio1
+- **Aquaraiders**
+  - [Faber's art direction debut creating Aquaraiders logos](https://faberfiles.blogspot.com/2014/03/aquazone-my-art-direction-debut-on-lego.html)
 
 ## Sets
 - [Brickset](https://brickset.com/)
@@ -239,3 +265,10 @@ A curated list of awesome historical LEGO resources for enthusiasts
 - [LUGNET](https://news.lugnet.com/)
 - [BZPower](https://www.bzpower.com/index.php)
 - [rec.toys.lego](https://groups.google.com/g/rec.toys.lego/) - old Usenet group
+
+## Misc
+- https://web.archive.org/web/20120125093837/http://www.legobattles.com/
+- https://web.archive.org/web/20011210101049/http://kidswb.com:80/contest/legostuffed/index2.shtml
+- [CartoonNetwork RoboRiders contest](https://web.archive.org/web/20010209024025/http://www.cartoonnetwork.com.au:80/asp/parents/lego_rules.asp)
+- https://web.archive.org/web/20030210075845/http://www.littledevice.dk:80/projects.html
+
