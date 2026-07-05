@@ -216,6 +216,7 @@ A curated list of awesome historical LEGO resources for enthusiasts
 - https://web.archive.org/web/20080105192154mp_/http://www.doh-ray.com/portfolio/bio.htm
 - [David R Sutherland's LEGO illustrations](https://www.davidrsutherland.name/category/client/lego/)
 - [Pedro Moya's LEGO gallery at DeviantArt](https://www.deviantart.com/pedromoya/gallery?q=lego)
+- [Gary K Clair's portfolio](https://garykclair.wixsite.com/mysite) - storyboards and character designs
 
 ## Media
 - [Emily's LEGO Realm fan site](https://emilyinternet.zone/realm/)
